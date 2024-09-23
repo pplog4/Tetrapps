@@ -1,7 +1,7 @@
 # Tetrapps
 テトリス風ゲームをPower Appsで作りました
 
-## 遊び方・
+## 遊び方・仕様説明
 [Power Appsでテトリス風ゲーム(Tetrapps)を作ってみた](https://powerplatformnikki.com/tetrapps/)
 
 ## msapp ファイルのインポート方法
